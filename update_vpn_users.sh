@@ -18,7 +18,7 @@
 # - DO NOT use these special characters within values: \ " '
 
 YOUR_USERNAMES='LODIxyruss101'
-YOUR_PASSWORDS='LODIxyruss'
+YOUR_PASSWORDS='LODIxyruss101'
 
 # Example:
 # YOUR_USERNAMES='username1 username2'
