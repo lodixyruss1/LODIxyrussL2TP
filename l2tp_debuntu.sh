@@ -22,7 +22,7 @@
 # - All values MUST be placed inside 'single quotes'
 # - DO NOT use these special characters within values: \ " '
 
-YOUR_IPSEC_PSK='fakenetvpn101'
+YOUR_IPSEC_PSK='iTunnelPortalSSH'
 YOUR_USERNAME='LODIxyruss101'
 YOUR_PASSWORD='LODIxyruss101'
 
