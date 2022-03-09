@@ -24,7 +24,7 @@
 
 YOUR_IPSEC_PSK='iTunnelPortalSSH'
 YOUR_USERNAME='LODIxyruss101'
-YOUR_PASSWORD='LODIxyruss'
+YOUR_PASSWORD='LODIxyruss101'
 
 # Important notes:   https://git.io/vpnnotes
 # Setup VPN clients: https://git.io/vpnclients
